@@ -1,0 +1,8 @@
+title:Tabi's wishlist
+description:My God Rolls
+
+// Peacebond - Peacebond God Roll Status Build (pve)
+//notes: Peacebond God Roll Status Build tags:pve
+dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,124408337
+
+
